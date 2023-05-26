@@ -59,7 +59,7 @@ El resumen de contenidos para las clases es el siguiente:
 **Sección VIII**
 - Introducción a imágenes
 - Espacios de color
-- Convoluciones
+- Convoluciones & Pooling
 
 **Sección IX – Tarea**
 - Redes convolucionales
