@@ -80,6 +80,8 @@ A continuación se presenta la tabla con los enlaces a los materiales por día:
 | --- | --- |
 | Slides de la sesión 3 | [![Clase 3](https://img.shields.io/static/v1?label=Clase%203&message=Google%20Slides&color=tomato)](https://docs.google.com/presentation/d/e/2PACX-1vSMAXTpqDX-tfONhqQvxLKRK1_BrOMGHeGqglvRunl-WWZYjjBAZ_Hb6Z67F517wHnC7zTqkh-RTT7Y/pub?start=false&loop=false&delayms=3000) |
 | Colab de la sesión 3 | [![Colab 3](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/RodolfoFerro/dl-facilito-g2/blob/main/notebooks/Deep_Learning_Clase_3.ipynb) |
+| Slides de la sesión 4 | [![Clase 4](https://img.shields.io/static/v1?label=Clase%204&message=Google%20Slides&color=tomato)](https://docs.google.com/presentation/d/e/2PACX-1vQn2as9DDVC-fO7xQa2sSJF4kzDzhaG-aXm8659_0ePNyUwIYDCF5Yn4i2ZvABs8CJZOOrisevVY2LE/pub?start=false&loop=false&delayms=3000) |
+| Colab de la sesión 4 | [![Colab 4](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/RodolfoFerro/dl-facilito-g2/blob/main/notebooks/Deep_Learning_Clase_4.ipynb) |
 
 > **NOTA:** Los contenidos de la clase 2 serán añadidos una vez se haya impartido la sesión.
 
