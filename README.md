@@ -47,14 +47,13 @@ El resumen de contenidos para las clases es el siguiente:
 - Entrenamiento del modelo
 - Evaluación y predicción
 
-### Bootcamp Básico
+### Bootcamp Avanzado
 
 **Sección VII**
 - Refresher sobre ANNs
     - Neuronas artificiales
     - Entrenamiento
 - ANNs con TensorFlow
-
 
 **Sección VIII**
 - Introducción a imágenes
@@ -65,6 +64,24 @@ El resumen de contenidos para las clases es el siguiente:
 - Redes convolucionales
 - Clasificadores de imágenes (LeNet5, etc.)
 - Descripción del reto
+
+**Sección X**
+
+- Introducción a los autoencoders
+- Estructura básica de un autoencoder
+- Funcionamiento de un autoencoder
+
+**Sección XI**
+
+- Limitaciones de los autoencoders básicos
+- Introducción a los autoencoders convolucionales
+- Estructura de los autoencoders convolucionales
+
+**Sección XII – Tarea**
+
+- Implementación y entrenamiento de los autoencoders convolucionales
+- Aplicaciones de los autoencoders convolucionales en el denoising de imágenes
+- Trabajos relacionados y avances recientes
 
 
 ### Material de la clase
